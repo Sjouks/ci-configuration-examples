@@ -5,5 +5,4 @@ function sum = super_important_summation(a, b)
 
 sum = a  + b ;
 
-% hoi
 end
